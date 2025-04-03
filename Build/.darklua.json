@@ -6,8 +6,7 @@
 			"name": "path",
 			"sources": {
 				"Games": "../Games",
-				"Core": "../Source/Core",
-				"Types": "../Source/Types"
+				"Core": "../Source/Core"
 			  }
 		}
     },
